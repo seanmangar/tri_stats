@@ -907,7 +907,11 @@ In [this other 2024 video](https://youtu.be/5dyR4zNMsmA?t=840):
 - He explains: "In the last season _(2023)_, we had a few races which came very close to that".
 - This statement seems to be correct: on the run subplot of the men's olympic format figure, **`London 2012` was the fastest until 2023**.
 - This [article from triathlon.org](https://www.triathlon.org/news/article/a_chance_for_history_breaking_down_the_stats_of_past_olympic_games), released **just before Paris ( :fr: ) 2024**, confirms: "Brownlee’s times (London ( :gb: ) 2012) will likely come under threat. Indeed, it seems highly likely that we could see the **first ever sub-29** and **sub-33** minute 10km times in an Olympic triathlon this summer."
-- Actually, the 5-9th men **ran** at the 2024 Paris Olympics **much slower** that the year before for the **test event**. Because of the heat? Or the fatigue caused by the very long swim?
+  - The 5-9th men **ran** at the 2024 Paris Olympics **much slower** that the year before for the **test event**.
+  - Also Alex Yee ( :gb: ) won in 2024 with a **29:49** run, compared to **29:00 in 2023**. 
+  - Because of the **heat** (the men's race started at **10am** instead of 8am)?
+  - Or the fatigue caused by the very long swim?
+  - Or was the **run course longer** in 2024? In this case the **women's run time improvement** would be even more **impressive**: Beth Potter ( :gb: ) did 32:57 in 2023, compared to **32:42** for Cassandre Beaugrand ( :fr: ) in 2024.
 
 ---
 
@@ -1795,7 +1799,7 @@ Here are some **key takeaways**:
 - :couple: **Women swim 8.8% slower** than men with the same equipment. They also **ride 10.6%** and **run 14.2%** slower.
 - :penguin: There is **no evidence that wetsuits reduce swim gaps** between top and less competitive swimmers.
 - :one_piece_swimsuit: Swim times are **~5.5% faster with wetsuit**.
-- :fr: The **swim** of 2024 Paris Olympics was **unusually long** (more than **2:30 longer**), probably because of the current of La Seine. In particular, the 5-9th women swam more than 1:30 / 100m.
+- :fr: The **swim** of 2024 Paris Olympics was **unusually long** (more than **2:30 longer**), probably because of the current in La Seine. In particular, the 5-9th women swam **more than 1:30 / 100m**.
 - :zap: Winning by a **run comeback**, i.e. after not ending the bike in the front group, is entertaining but **rare** (28% for men and 7% for women) in the olympic format and is getting even rarer.
 - :bicyclist: The **size of the front group** after bike averages around **15**, decreases to 4 or fewer (**small breakaway**) in about **1/4 of women's** and **1/3 of men's** olympic-races.
 - :athletic_shoe: Over **2/3 of races** are won by the **best runner**.
