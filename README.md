@@ -25,7 +25,7 @@ Data are collected from the [Triathlon.org API](https://developers.triathlon.org
 > "The **Triathlon.org API Platform** allows access to the entire [Triathlon.org](https://triathlon.org/) infrastructure and data"
 
 **Race results** are processed as followed:
-- **Year**: from `2009` (start of the world-series) to early `2024` (year of writing).
+- **Year**: from `2009` (start of the world-series) to mid-`2024`, just after the Paris Olympics.
 - **Event**: only **`world-cups`**, **`world-series`** (called **WTCS**) and **`games related events`** (Commonwealth, Olympics and Olympic test events).
 - **Distance**: only **`sprint`** (`750 - 20 - 5`) and **`olympic`** (also called "standard": `1500 - 40 - 10`) formats.
 - **Minimum number of finishers**: `25`.
@@ -192,7 +192,7 @@ On average, T1+T2 takes **01:11** (men) and **01:18** (women).
 
 It is worth recalling the [data](#books-data) settings:
 
-- Year: from `2009` to early `2024`.
+- Year: from `2009` to mid-`2024`.
 - Event: only **`world-cups`**, **`world-series`** (called **WTCS**) and **`games related events`**.
 - Distance: only **`sprint`** and **`olympic`** formats.
 - At least `25` finishers.
@@ -459,8 +459,8 @@ Reminder:
 
 The idea of the **derivation** is as follows:
 - **Women [have been found](#focus-on-the-swim-swimmer) to swim on average ~8.8% slower than men**, with the **same equipment**.
-- With examples where the **women had the wetsuit**, but the **men did not**, one can:
-  - 1- Estimate, from the men time, the **time the women WOULD HAVE done without the wetsuit** (thanks to the ~8.8% rule).
+- With examples where **women had the wetsuit**, but **men did not**, one can:
+  - 1- Estimate, from the men's time, the **time women WOULD HAVE done without the wetsuit** (thanks to the ~8.8% rule).
   - 2- Compare the **women's time with wetsuit** (measured) with the **women's time without** (computed in 1-).
   - 3- Deduce the **advantage provided by the wetsuit** for the women.
   - 4- Note that `improve_percent` should be the **same for women and men** (because of the **constant** ~8.8% difference given the **same equipment**).
@@ -518,6 +518,7 @@ The idea of the **derivation** is as follows:
 - The **wetsuit brings an advantage of ~5.5%** to top swimmers (5th-9th).
 - To say it other way, top swimmers (top 5-9) swim **~5.8% slower without wetsuit**.
   - `0.055 / (1-0.055) = 0.058`
+- To-do: consider uncertainties and refine the computed benefit with a **confidence interval**.
 
 <details>
   <summary>Click to expand - 🌍 <strong>Events used for the derivation.</strong></summary>
